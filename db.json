@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-        "id": 3,
-        "text": "Clean Room",
-        "day": "June 28th at 4:30pm",
-        "reminder": false
+      "id": 3,
+      "text": "Clean Room",
+      "day": "June 28th at 4:30pm",
+      "reminder": false
     }
   ]
 }
